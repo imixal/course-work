@@ -1,1 +1,1 @@
-# course-work
+# It's my first project!
