@@ -1,0 +1,159 @@
+*{
+   font-family: 'PT Sans Caption', sans-serif;
+   font-size: 18px;
+
+}
+body{ 
+  margin: 0;
+}
+h1, h2, h3, h4, h5, h6{
+  margin: 0;
+  padding: 0;
+}
+div, nav, section, p, a, ul{
+  margin: 0;
+  padding: 0;
+}
+h1{
+  font-size: 3em;
+}
+h3{
+  font-size: 2.5em;
+  font-weight: 700;
+  text-align: center;
+}
+h4{
+  font-size: 1.5em;
+  font-weight: 600;
+  text-align: center;
+}
+/*Navigation*/
+.navigation{
+  width: 100%;
+  height: 50px;
+
+  background-color: #f4511e;
+}
+.logo{
+  float: left;
+  margin: 0px 50px;
+  color: #fff;
+  font-weight: 700;
+  line-height: 50px;
+}
+
+.menu{
+  float: right;
+  list-style: none;
+  display: inline-block;
+  padding-right: 50px;
+}
+.menu-point{
+  display: inline;
+  margin: 0 25px;
+  
+}
+.menu-point p{
+  display: inline-block;
+  color: #fff;
+  font-size: 0.8em;
+  line-height: 50px;
+}
+.clearfix{
+  clear: both;
+}
+.menu-point a:hover{
+  opacity: .9;
+}
+/*end*/
+/*Find*/
+.find{
+  box-sizing: border-box;
+  padding-top: 100px;
+  width: 100%;
+  height: 350px;
+  background-color: #f4511e;
+}
+.name-company{
+  text-align: center;
+}
+.name-company{
+  color: #fff;
+}
+.about-company{
+  color: #fff;
+  font-size: 2em;
+  text-align: center;
+  font-weight: 600;
+}
+#find-area{
+  margin: 10px 0;
+  text-align: center;
+}
+.find-line{
+  border: 2px solid #fff;
+  border-radius: 5px;
+  font-weight: 600;
+  font-family: 'PT Sans Caption', sans-serif;
+  padding: 0px 10px;
+
+}
+.find-button{
+  width: 100px;
+  color: #fff;
+  border: 2px solid;
+  border-radius: 5px;
+  padding: 5px 5px;
+  text-decoration: none;
+  background: none;
+  transition: 0.3s;
+}
+.find-button:hover{
+  opacity: 0.8;
+  cursor: pointer;
+}
+/*end*/
+/*types*/
+#types{
+  width: 100%;
+  box-sizing: border-box;
+  padding: 50px 210px;
+}
+.section-name{
+  line-height: 100px;
+  width: 100%;
+  height: 100px;
+  margin-bottom: 50px;
+  color: #808080;
+}
+.type{
+  float: left;
+  box-sizing: padding-box;
+  padding: 20px;
+  width: 700px;
+  height: 300px;
+}
+.name-type{
+  width: 500px;
+  height: 50px;
+  float: left;
+  line-height: 50px;
+}
+.small-img-type{
+  float: left;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border: 0px solid ;
+  background-color: #f4511e;
+}
+.text-type{
+  color: #808080;
+  box-sizing: border-box;
+  padding: 20px;
+  float: left;
+  width: 500px;
+  height: 250px;
+  text-align: center;
+
+}
