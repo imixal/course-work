@@ -1,0 +1,6 @@
+c:\users\ilya\documents\visual studio 2015\Projects\text\text\bin\Debug\text.exe.config
+c:\users\ilya\documents\visual studio 2015\Projects\text\text\bin\Debug\text.exe
+c:\users\ilya\documents\visual studio 2015\Projects\text\text\bin\Debug\text.pdb
+c:\users\ilya\documents\visual studio 2015\Projects\text\text\obj\Debug\text.csprojResolveAssemblyReference.cache
+c:\users\ilya\documents\visual studio 2015\Projects\text\text\obj\Debug\text.exe
+c:\users\ilya\documents\visual studio 2015\Projects\text\text\obj\Debug\text.pdb
